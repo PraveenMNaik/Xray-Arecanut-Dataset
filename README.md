@@ -4,7 +4,7 @@ X-ray image dataset
 
     https://drive.google.com/drive/folders/1oTql7WjXZhtO6W55RCQntlbMzPIIJP0G?usp=sharing
 
-2. Trained X-ray images of Arecanut shared below, not available for public.(920 images in total, approximately 300 images for each Grade)
+2. The trained X-ray images of Arecanut provided below are unannotated and are not available to the public.(920 images in total, approximately 300 images for each Grade)
 
     https://drive.google.com/drive/folders/1oUbkIZ3Z0x06Bp0b25jHPPCE9So-DecV?usp=sharing
     
