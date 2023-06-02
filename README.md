@@ -1,4 +1,4 @@
-# X-ray dataset of Arecanut crop 
+# X-ray dataset of Arecanut
 X-ray image dataset 
 1. Sample images of Arecanut shared below and are un-annotated. There is a total of 45 images, with each grade (Grade1, Grade2, Grade3) consisting of 15 images.
 
