@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Xray Arecanut Dataset
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Praveen M Naik
+    email: praveen.207it001@nitk.edu.in
+    affiliation: 'National Institute of Technology Karnataka, Surathkal'
+  - given-names: Bhawana Rudra
+identifiers:
+  - type: url
+    value: 'https://github.com/PraveenMNaik/Xray-Arecanut-Dataset'
+    description: Xray Arecanut Dataset for Grading into 3 classes.
+repository-code: 'https://github.com/PraveenMNaik/Xray-Arecanut-Dataset'
+keywords:
+  - 'Arecanut, Object detection , Non-destructive, X-ray'
+date-released: '2023-04-04'
